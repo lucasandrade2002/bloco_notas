@@ -1,0 +1,10 @@
+C:\Projetos_WindowsForms\Editor de Textos\Bloco de Notas do Lucas\bin\Debug\Bloco de Notas do Lucas.exe.config
+C:\Projetos_WindowsForms\Editor de Textos\Bloco de Notas do Lucas\bin\Debug\Bloco de Notas do Lucas.exe
+C:\Projetos_WindowsForms\Editor de Textos\Bloco de Notas do Lucas\bin\Debug\Bloco de Notas do Lucas.pdb
+C:\Projetos_WindowsForms\Editor de Textos\Bloco de Notas do Lucas\obj\Debug\Bloco de Notas do Lucas.csproj.AssemblyReference.cache
+C:\Projetos_WindowsForms\Editor de Textos\Bloco de Notas do Lucas\obj\Debug\Bloco_de_Notas_do_Lucas.Properties.Resources.resources
+C:\Projetos_WindowsForms\Editor de Textos\Bloco de Notas do Lucas\obj\Debug\Bloco de Notas do Lucas.csproj.GenerateResource.cache
+C:\Projetos_WindowsForms\Editor de Textos\Bloco de Notas do Lucas\obj\Debug\Bloco de Notas do Lucas.csproj.CoreCompileInputs.cache
+C:\Projetos_WindowsForms\Editor de Textos\Bloco de Notas do Lucas\obj\Debug\Bloco de Notas do Lucas.exe
+C:\Projetos_WindowsForms\Editor de Textos\Bloco de Notas do Lucas\obj\Debug\Bloco de Notas do Lucas.pdb
+C:\Projetos_WindowsForms\Editor de Textos\Bloco de Notas do Lucas\obj\Debug\Bloco_de_Notas_do_Lucas.F_main.resources
